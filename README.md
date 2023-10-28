@@ -2,6 +2,9 @@
 
 This repository contains the official implementation of the paper "Denoising Architecture for Unsupervised Anomaly Detection in Time-Series" by Wadie Skaf and Tomáš Horváth.
 
+Springer: https://link.springer.com/chapter/10.1007/978-3-031-15743-1_17
+ArXiv preprint: https://arxiv.org/abs/2208.14337
+
 ## Requirements
 Please check the `requirements.txt` file for the required packages.
 
