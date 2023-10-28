@@ -1,0 +1,52 @@
+{
+ "16": {
+  "architecture": [16],
+  "seq_lens": [24],
+  "dropouts": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+ },
+ "8": {
+  "architecture": [8],
+  "seq_lens": [24],
+  "dropouts": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+ },
+ "4": {
+  "architecture": [4],
+  "seq_lens": [24],
+  "dropouts": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+ },
+ "2": {
+  "architecture": [2],
+  "seq_lens": [24],
+  "dropouts": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+ },
+ "16_8": {
+  "architecture": [16, 8],
+  "seq_lens": [24],
+  "dropouts": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+ },
+ "8_4": {
+  "architecture": [8, 4],
+  "seq_lens": [24],
+  "dropouts": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+ },
+ "4_2": {
+  "architecture": [4, 2],
+  "seq_lens": [24],
+  "dropouts": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+ },
+ "16_8_4": {
+  "architecture": [16, 8, 4],
+  "seq_lens": [24],
+  "dropouts": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+ },
+ "8_4_2": {
+  "architecture": [8, 4, 2],
+  "seq_lens": [24],
+  "dropouts": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+ },
+ "16_8_4_2": {
+  "architecture": [16, 8, 4, 2],
+  "seq_lens": [24],
+  "dropouts": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
+ }
+}
