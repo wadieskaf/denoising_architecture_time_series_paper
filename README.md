@@ -5,13 +5,23 @@ This repository contains the official implementation of the paper "Denoising Arc
 * Springer: https://link.springer.com/chapter/10.1007/978-3-031-15743-1_17
 * ArXiv preprint: https://arxiv.org/abs/2208.14337
 
+# Table of Contents
+* [Requirements](#requirements)
+* [Usage](#usage)
+  * [Getting the data](#getting-the-data)
+  * [Defining the experiment(s) parameters](#defining-the-experiments-parameters)
+  * [Running the experiments](#running-the-experiments)
+* [Citation](#citation)
+* [License](#license)
+* [Note](#note)
+
 ## Requirements
 Please check the `requirements.txt` file for the required packages.
 
 ## Usage
 
 ### Getting the data
-the dataset used in this paper is the Yahoo S5 dataset, which can be requested and downloaded from [here](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70). The dataset should be placed in the `Datasets` folder.
+The dataset used in this paper is the Yahoo S5 dataset, which can be requested and downloaded from [here](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70). The dataset should be placed in the `Datasets` folder.
 
 ### Defining the experiment(s) parameters
 
